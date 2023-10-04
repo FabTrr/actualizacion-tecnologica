@@ -81,6 +81,33 @@
 * Herramientas de línea de comandos que vienen con sistemas operativos basados en Linux
 * Se utilizan para diversas tareas, como acceso remoto (Telnet), transferencia de datos (curl) y navegación de directorios (tree)
 
+Telnet
+
+Telnet es una utilidad que permite conectarse a un servidor remoto a través de una conexión de red. Se puede utilizar para acceder a una máquina virtual, un servidor web o cualquier otro dispositivo que tenga una interfaz de línea de comandos.
+
+Ejemplo:
+
+telnet localhost 22
+Este comando se conectará a un servidor SSH en localhost en el puerto 22.
+
+Curl
+
+Curl es una utilidad que permite transferir datos a través de una conexión de red. Se puede utilizar para descargar archivos, cargar archivos, realizar solicitudes HTTP y mucho más.
+
+Ejemplo:
+
+curl https://www.example.com
+Este comando descargará la página web de example.com.
+
+Tree
+
+Tree es una utilidad que muestra una estructura de directorios en forma de árbol. Se puede utilizar para visualizar el contenido de un directorio o para encontrar archivos en un directorio grande.
+
+Ejemplo:
+
+tree /
+Este comando mostrará una estructura de directorios de todo el sistema de archivos.
+
 ## MySQL Workbench
 
 * Herramienta de administración y diseño de bases de datos MySQL
