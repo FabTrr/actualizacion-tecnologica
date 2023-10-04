@@ -85,17 +85,3 @@
 
 * Herramienta de administración y diseño de bases de datos MySQL
 * Se utiliza para crear, modificar y gestionar bases de datos MySQL y visualizar su estructura
-
-## Formato Markdown utilizado
-
-* Listas numeradas para los encabezados
-* Encabezados de nivel 2 para los subencabezados
-* Párrafos para el texto
-* Enlaces para las referencias
-* Negrita y cursiva para resaltar el texto
-
-## Observaciones
-
-* El formato se puede mejorar según las preferencias personales
-* Se pueden agregar más detalles a cada herramienta
-* Se pueden incluir herramientas adicionales
