@@ -1,7 +1,7 @@
 ## Actualización Tecnológica 2023
 
 - Espacio donde se estudiará y se practicará con herramientas de desarrollo de software actuales
-- Desde octubre hasta diciembre de 2023, en dos meses, estaremos viendo los siguientes items:
+- Desde el 2 de octubre hasta el 8 diciembre de 2023, en dos meses, estaremos viendo los siguientes items:
 
 * Infraestructura de trabajo
 * Procesos de desarrollo de software
