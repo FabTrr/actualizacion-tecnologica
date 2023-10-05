@@ -42,6 +42,7 @@
 | `ssh` | Conecta a un host remoto de forma segura. |
 | `scp` | Copia archivos a un host remoto de forma segura. |
 | `rsync` | Copia archivos a un host remoto de forma segura y eficiente. |
+| `telnet` | Conecta a un host remoto de forma poco segura. |
 
 ## Compresión de archivos
 
