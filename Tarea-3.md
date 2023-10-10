@@ -6,31 +6,17 @@ Postman es una herramienta de prueba de API que se utiliza para probar las URL's
 
 1. **Cree una nueva colección.** Una colección es un conjunto de solicitudes que se pueden agrupar juntas.
 
-![Crear una nueva colección en Postman]([https://i.imgur.com/a524v7d.png](https://2912501531-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/assets%2F-LKmGSg4qhizjqeDPHJC%2F-MCKGgcKXqCxNRrb8y7L%2F-MCKLkxF-hcjjCKTZEa_%2Fimage.png?alt=media&token=059ede35-dc97-41d4-aa4f-6058b7e26757))
-
 2. **Cree una nueva solicitud.** Una solicitud es una petición HTTP que se envía a una URL.
-
-![Crear una nueva solicitud en Postman](https://i.imgur.com/q5l851s.png)
 
 3. **Especifique la URL.** En el campo **URL**, escriba la URL de la que desea probar.
 
-![Especificar la URL en Postman](https://i.imgur.com/o82d881.png)
-
 4. **Seleccione el método HTTP.** El método HTTP determina el tipo de solicitud que se enviará. Los métodos HTTP más comunes son GET, POST, PUT y DELETE.
-
-![Seleccionar el método HTTP en Postman](https://i.imgur.com/3p02636.png)
 
 5. **Especifique los parámetros.** Los parámetros son datos adicionales que se pueden enviar con la solicitud. Para especificar los parámetros, haga clic en la pestaña **Parameters**.
 
-![Especificar los parámetros en Postman](https://i.imgur.com/tK515Qy.png)
-
 6. **Especifique el cuerpo.** El cuerpo es el contenido de la solicitud. Para especificar el cuerpo, haga clic en la pestaña **Body**.
 
-![Especificar el cuerpo en Postman](https://i.imgur.com/0r9s34t.png)
-
 7. **Envíe la solicitud.** Para enviar la solicitud, haga clic en el botón **Send**.
-
-![Enviar una solicitud en Postman](https://i.imgur.com/iY1393e.png)
 
 ## Ejemplos
 
