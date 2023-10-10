@@ -6,7 +6,7 @@ Postman es una herramienta de prueba de API que se utiliza para probar las URL's
 
 1. **Cree una nueva colección.** Una colección es un conjunto de solicitudes que se pueden agrupar juntas.
 
-![Crear una nueva colección en Postman](https://i.imgur.com/a524v7d.png)
+![Crear una nueva colección en Postman]([https://i.imgur.com/a524v7d.png](https://2912501531-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/assets%2F-LKmGSg4qhizjqeDPHJC%2F-MCKGgcKXqCxNRrb8y7L%2F-MCKLkxF-hcjjCKTZEa_%2Fimage.png?alt=media&token=059ede35-dc97-41d4-aa4f-6058b7e26757))
 
 2. **Cree una nueva solicitud.** Una solicitud es una petición HTTP que se envía a una URL.
 
