@@ -1,6 +1,6 @@
 # Patrones de diseño
 
-## Singleton
+## Singleton 
 
 El patrón Singleton es un patrón de diseño creacional que asegura que una clase solo tenga una instancia. Esto se puede utilizar para garantizar que un recurso compartido, como una base de datos o un servicio, solo se acceda a través de un punto de acceso.
 
