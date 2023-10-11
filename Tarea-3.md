@@ -53,13 +53,13 @@ https://api.example.com/products
 4. Crea un parámetro llamado **name** con el valor "Producto nuevo".
 5. En el cuerpo, especifica el siguiente JSON:
 
-```
+```json
 {
   "name": "Producto nuevo",
   "price": 100
 }
 
-
+```
 6. Envía la solicitud.
 
 La respuesta de la solicitud será un código de respuesta 201, que indica que la creación del producto fue exitosa.
