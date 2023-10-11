@@ -23,7 +23,7 @@ public class Singleton {
     }
 }
 
-
+```
 **Ventajas:**
 
 * Asegura que solo haya una instancia de una clase.
@@ -41,7 +41,7 @@ El patrón Template es un patrón de diseño estructural que define un marco par
 
 **Ejemplo:**
 
-java
+```java
 public abstract class TemplateMethod {
 
     public void doSomething() {
@@ -72,7 +72,7 @@ public class ConcreteClass extends TemplateMethod {
     }
 }
 
-
+```
 **Ventajas:**
 
 * Reduce la duplicación de código.
@@ -90,7 +90,7 @@ El patrón Strategy es un patrón de diseño comportamental que permite que un a
 
 **Ejemplo:**
 
-java
+```java
 public interface Strategy {
 
     void doSomething();
@@ -124,7 +124,7 @@ public class Context {
         strategy.doSomething();
     }
 }
-
+```
 
 **Ventajas:**
 
