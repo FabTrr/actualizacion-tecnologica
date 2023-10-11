@@ -2,7 +2,7 @@
 
 Un patrón es una solución general y reutilizable a un problema común en el diseño, la implementación o la construcción de software. Los patrones se basan en la experiencia y el conocimiento acumulados de los desarrolladores de software, y se pueden utilizar para mejorar la calidad, la mantenibilidad y la escalabilidad del software.
 
-## ¿Para qué sirven los patrones?
+## ¿Para qué sirven los patrones? 
 
 Los patrones sirven para los siguientes propósitos:
 
