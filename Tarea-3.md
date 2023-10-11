@@ -2,7 +2,7 @@
 
 Postman es una herramienta de prueba de API que se utiliza para probar las URL's de forma sencilla y eficaz. Para probar una URL en Postman, siga estos pasos:
 
-## Pasos
+## Pasos 
 
 1. **Cree una nueva colección.** Una colección es un conjunto de solicitudes que se pueden agrupar juntas.
 
