@@ -1,6 +1,6 @@
 # Comandos Linux más utilizados
 
-## Introducción
+## Introducción 
 
 Los comandos Linux son instrucciones que se utilizan para interactuar con el sistema operativo. Estos comandos se pueden ejecutar desde la línea de comandos, que es una interfaz de texto que permite controlar el sistema operativo.
 
